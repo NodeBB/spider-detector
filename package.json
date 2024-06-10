@@ -1,5 +1,5 @@
 {
-  "name": "spider-detector",
+  "name": "@nodebb/spider-detector",
   "version": "2.0.2",
   "description": "A tiny node module to detect spiders/crawlers quickly and comes with optional middleware for ExpressJS",
   "main": "index.js",
